@@ -19,4 +19,4 @@
 
 <br><br>
 
-<img title="a title" alt="Alt text" src="[/images/boo.svg](https://www.bing.com/images/search?view=detailV2&ccid=tAro%2fYWS&id=CBC8E5A02C5BA31FEB71E181687586417BFE51D0&thid=OIP.tAro_YWS1rKgbn2XsZFYPgHaHa&mediaurl=https%3a%2f%2fwww.worldofsweets.de%2fout%2fpictures%2fmaster%2fproduct%2f2%2fcapri-sun-multivitamin-10x200ml-no2-2248.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b40ae8fd8592d6b2a06e7d97b191583e%3frik%3d0FH%252be0GGdWiB4Q%26pid%3dImgRaw%26r%3d0&exph=1500&expw=1500&q=caprisun&simid=608049026713679714&FORM=IRPRST&ck=E195B3FADFF546E509978CC755E12B1D&selectedIndex=24&itb=0)">
+
